@@ -1,0 +1,11 @@
+__pycache__
+.feishu
+.headless
+.headless_phone
+.headless_check
+cookies.json
+cookies_phone.json
+cookies_check.json
+words.txt
+temp*
+.debug*
